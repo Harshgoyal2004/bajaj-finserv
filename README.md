@@ -68,14 +68,3 @@ The API will be running at `http://127.0.0.1:5000`.
 
 Vercel will automatically detect the Flask application and deploy it. After deployment, you will receive a unique URL for your API.
 
-## Submitting Your Solution
-
-1. **Push your code to a public GitHub repository.**
-
-2. **Submit the following information to the form at [forms.office.com/r/ZeVpUYp3zV](https://forms.office.com/r/ZeVpUYp3zV):**
-
-   - Your Name
-   - Roll Number
-   - Email ID
-   - GitHub repository URL
-   - Hosted API URL (including the `/bfhl` route)

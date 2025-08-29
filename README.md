@@ -20,8 +20,7 @@ This project is a REST API built with Flask that processes an array of data and 
 1. **Clone the repository:**
 
    ```bash
-   git clone <your-repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Harshgoyal2004/bajaj-finserv
    ```
 
 2. **Create a virtual environment:**
